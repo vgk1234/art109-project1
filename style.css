@@ -1,0 +1,52 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  background-image: url('https://cdn.glitch.com/e60310fe-0494-41d5-b03a-79ff0f0ff657%2F89138f47-c9df-4e95-bbda-cff208388038.image.png?v=1615168287795');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+.header {
+  margin-top: 100px;
+  font-size: 30px;
+  background-color: rgba(102, 0, 51, 0.5);
+}
+
+.main {
+  margin-left: 200px;
+  margin-right: 200px;
+  color: #ffffcc;
+  background-color: rgba(102, 0, 102, 0.5);
+}
+
+.nav {
+  color: #ffccff;
+  font-size: 30px;
+}
+
+.main2 {
+  margin-left: 200px;
+  margin-right: 200px;
+  color: #ffffcc;
+  background-color: rgba(102, 0, 102, 0.5);
+}
+
+.main3 {
+  margin-left: 200px;
+  margin-right: 200px;
+  color: #ffffcc;
+  background-color: rgba(102, 0, 102, 0.5);
+}
+
+a {
+  color: #ffccff;
+  font-size: 30px;
+  text-decoration: none;
+}
